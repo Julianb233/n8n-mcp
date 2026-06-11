@@ -140,3 +140,9 @@ n8n-mcp-wrapper.sh
 
 # Telemetry configuration (user-specific)
 ~/.n8n-mcp/
+
+# Agent workspace artifacts
+.codex/
+.hermes/
+.planning/e2e/results/
+agentic-os.config.json
