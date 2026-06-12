@@ -146,3 +146,4 @@ n8n-mcp-wrapper.sh
 .hermes/
 .planning/e2e/results/
 agentic-os.config.json
+AGENTS.md
